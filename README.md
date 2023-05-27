@@ -40,6 +40,6 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elma-dev&theme=highcontrast&hide_border=true" alt="Elma-dev"/>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=elma-dev&bg_color=030303&color=29d64b&line=18c964&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elma-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
