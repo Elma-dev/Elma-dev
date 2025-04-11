@@ -4,9 +4,9 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b>.<br>
-    👨‍🎓 Master Student <b>IA & Distribution Systeme</b> @ ENSET .<br>
-    🌱 interested in <b>Web Development</b> and <b>IA</b> in general.<br>
+    🎓 MSc <b>AI & Distribution Systeme</b> @ ENSET .<br>
+    🎓 <b>Bachelor's in Computer Science Engineering</b>.<br>
+    🌱 interested in <b>AI</b> in general.<br>
     🎯 My Goal is to Contribute to as many <b>open source project <b>as possible</b>.<br>
     ✨ I love to create different types of </b>contents<b>.
    </td>
